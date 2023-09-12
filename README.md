@@ -4,4 +4,4 @@ Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani in ICCV 2023 (Oral)
 
 [[Project Page]](https://judyye.github.io/diffhoi-www/)
 
-Code Coming soon (ETA Sep 12th)
+Code Coming soon
